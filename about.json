@@ -1,8 +1,8 @@
 {
   "name": "Hide Sidebar from Anon",
   "component": true,
-  "license_url": null,
-  "about_url": null,
+  "license_url": "https://github.com/nathan-nz/discourse-hide-sidebar-from-anon/blob/main/LICENSE",
+  "about_url": "https://meta.discourse.org/t/how-do-i-hide-the-sidebar-for-anon-viewers/250311",
   "authors": "Nathan Kershaw",
   "theme_version": "1.0",
   "minimum_discourse_version": null,
